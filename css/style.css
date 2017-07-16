@@ -90,6 +90,7 @@ html {
 .ptext .border.trans {
   background-color: transparent;
   color: #fff;
+  text-shadow: -3px 2px 1px #000;
 }
 
 a {
